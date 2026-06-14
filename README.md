@@ -12,3 +12,7 @@ A **pixel-perfect recreation of the X (formerly Twitter) login screen** built wi
 
 - **Flutter** – Cross-platform UI framework
 - **Dart** – Application logic and widget structure
+
+## Preview
+
+![Preview](assets/preview.png)
